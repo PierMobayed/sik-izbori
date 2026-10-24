@@ -1,0 +1,8 @@
+{
+  "name": "sik-izbori",
+  "private": true,
+  "description": "Наръчник за СИК извън страната, избори 25 октомври 2026, хартиени бюлетини.",
+  "scripts": {
+    "test": "node --test"
+  }
+}
