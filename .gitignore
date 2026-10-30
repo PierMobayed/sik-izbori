@@ -5,3 +5,11 @@ desktop.ini
 
 # fleet rules snapshot (local only, public repo)
 .repo-rules/
+
+# agent/fleet pointer files (private links, local only)
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+jcode.rules
+.clinerules
+.ai/
